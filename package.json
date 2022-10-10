@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "passport-local": "^1.0.0"
+  },
+  "name": "local-strategy",
+  "version": "1.0.0",
+  "description": "passport local-strategy login build",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passportjs",
+    "passport",
+    "local-strategy",
+    "express"
+  ],
+  "author": "scott wallace w2 marketing llc",
+  "license": "MIT"
+}
